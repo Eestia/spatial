@@ -10563,7 +10563,8 @@ body {
   padding: 30px;
   gap: 20px;
 }
-#midbutton button {
+
+#btn1 {
   color: rgb(255, 255, 255);
   background-color: rgb(243, 40, 83);
   border-radius: 10px;
@@ -10572,6 +10573,21 @@ body {
   padding-left: 40px;
   padding-right: 40px;
   border: none;
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
+}
+
+#btn2 {
+  color: rgb(255, 255, 255);
+  background-color: rgb(50, 48, 55);
+  border-radius: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 40px;
+  padding-right: 40px;
+  border: none;
+  font-family: "Lato", sans-serif;
+  font-weight: 700;
 }
 
 .midbot {
