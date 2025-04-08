@@ -10760,6 +10760,41 @@ footer p {
   padding-bot: 40px;
 }
 
+.topsite {
+  height: 800px;
+}
+
+.midtop {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.mid {
+  display: flex;
+  flex-direction: column;
+}
+.mid #cardmid {
+  display: flex;
+  flex-direction: column;
+}
+
+.midbot {
+  display: flex;
+  flex-direction: column;
+}
+.midbot #midtitre h1 {
+  font-size: 30px;
+}
+.midbot #midtitre h2 {
+  font-size: 20px;
+}
+.midbot #midbotsec {
+  display: flex;
+  flex-direction: column;
+}
+
 /*!
  * Bootstrap  v5.3.4 (https://getbootstrap.com/)
  * Copyright 2011-2025 The Bootstrap Authors
