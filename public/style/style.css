@@ -10760,8 +10760,43 @@ footer p {
   padding-bot: 40px;
 }
 
+nav {
+  font-size: 15px;
+}
+nav ul {
+  padding-left: 20px;
+  padding-right: 20px;
+  gap: 20px;
+}
+nav h3 {
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 14px;
+}
+
 .topsite {
-  height: 800px;
+  height: 400px !important;
+}
+.topsite p {
+  font-size: 18px;
+}
+
+#divmid {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+#cardmid img {
+  height: 200px;
+  width: 400px;
+}
+#cardmid p {
+  font-size: 15px;
+}
+
+.topsite {
+  height: 600px;
 }
 
 .midtop {
@@ -10793,6 +10828,12 @@ footer p {
 .midbot #midbotsec {
   display: flex;
   flex-direction: column;
+}
+.midbot #midbotdiv {
+  padding: 20px;
+}
+.midbot #midbotdiv2 {
+  padding: 20px;
 }
 
 /*!
