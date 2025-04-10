@@ -10655,10 +10655,10 @@ nav ul {
   padding-left: 40px;
   padding-right: 40px;
   gap: 20px;
-  background-color: rgba(8, 11, 36, 0.273);
+  background-color: rgba(8, 11, 36, 0.593);
 }
 nav h3 {
-  background-color: rgba(8, 11, 36, 0.273);
+  background-color: rgba(8, 11, 36, 0.593);
   padding-left: 40px;
   padding-right: 40px;
   font-size: 20px;
@@ -10770,11 +10770,13 @@ footer p {
     padding-left: 10px;
     padding-right: 10px;
     gap: 20px;
+    background-color: rgba(8, 11, 36, 0.593);
   }
   nav h3 {
     padding-left: 2px;
     padding-right: 2px;
-    font-size: 12px;
+    font-size: 10px;
+    background: linear-gradient(to bottom, rgba(8, 11, 36, 0.593), transparent);
   }
   .topsite {
     height: 400px !important;
