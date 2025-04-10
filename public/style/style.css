@@ -10471,6 +10471,7 @@ body {
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(9, 1, 51, 0.338)), url(../assets/images/banner.jpg);
   background-attachment: fixed;
   overflow-x: hidden;
+  margin: 0px;
 }
 
 .topsite {
@@ -10761,7 +10762,7 @@ footer p {
   padding-bot: 40px;
 }
 
-@media (max-width: 575px) {
+@media (max-width: 600px) {
   nav {
     font-size: 15px;
   }
@@ -10794,7 +10795,7 @@ footer p {
     font-size: 15px;
   }
 }
-@media (min-width: 576px) and (max-width: 767px) {
+@media (max-width: 800px) {
   .topsite {
     height: 600px;
   }
