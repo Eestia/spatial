@@ -10764,7 +10764,7 @@ footer p {
 
 @media (max-width: 600px) {
   nav {
-    font-size: 15px;
+    font-size: 10px;
   }
   nav ul {
     padding-left: 20px;
@@ -10780,12 +10780,31 @@ footer p {
     height: 400px !important;
   }
   .topsite p {
-    font-size: 18px;
+    font-size: 12px;
+  }
+  .topsite button {
+    font-size: 16px;
+    padding: 12px;
   }
   #divmid {
     display: flex;
     flex-direction: column;
     text-align: center;
+  }
+  .midtop p {
+    font-size: 14px;
+  }
+  .midbot img {
+    width: 150px;
+  }
+  .midbot p {
+    font-size: 14px;
+  }
+  .bot h1 {
+    font-size: 20px;
+  }
+  .bot p {
+    font-size: 15px;
   }
   #cardmid img {
     height: 200px;
