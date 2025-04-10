@@ -10767,14 +10767,14 @@ footer p {
     font-size: 10px;
   }
   nav ul {
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
     gap: 20px;
   }
   nav h3 {
-    padding-left: 10px;
-    padding-right: 10px;
-    font-size: 14px;
+    padding-left: 2px;
+    padding-right: 2px;
+    font-size: 12px;
   }
   .topsite {
     height: 400px !important;
@@ -10792,13 +10792,19 @@ footer p {
     text-align: center;
   }
   .midtop p {
-    font-size: 14px;
+    font-size: 12px;
   }
   .midbot img {
     width: 150px;
   }
   .midbot p {
-    font-size: 14px;
+    font-size: 12px;
+    line-height: 1.5;
+  }
+  #midtitre {
+    display: flex;
+    flex-direction: column;
+    padding-left: 35px;
   }
   .bot h1 {
     font-size: 20px;
