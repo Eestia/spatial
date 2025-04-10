@@ -10822,6 +10822,12 @@ footer p {
     justify-content: center;
     align-items: center;
   }
+  #midtopdiv h2 {
+    font-size: 33px;
+  }
+  #midtopdiv h3 {
+    font-size: 20px;
+  }
   #cardmid img {
     height: 170px;
     width: 280px;
